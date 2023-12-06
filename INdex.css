@@ -1,0 +1,16 @@
+h1{
+    color: aqua;
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    color: aliceblue;
+}
+button{
+    height: 50px;
+    width: 100px;
+    border-radius: 15px;
+    color: powderblue;
+    background-color: black;
+}
